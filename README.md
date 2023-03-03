@@ -1,6 +1,6 @@
 # Hello there👋, I'm Victor Moreno and I'm looking for a job, you can hire me per hour, event, project or contract.
 
-I'm a software engineer with 13 years of experience writing software. I've worked with a wide range of technologies over the years, and have become proficient in many programming languages. **Currently my focus is on the fields of crypto, infosec(Purple team), UX, and AI.**
+I'm a software engineer with 14 years of experience writing software. I've worked with a wide range of technologies over the years, and have become proficient in many programming languages. 
 
 ## 🔭 What I Do
 
